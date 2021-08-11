@@ -9,3 +9,6 @@ ShopMain class contains the code with objects of VegetableShop class and include
 NoProperFormatException, NoItemException, NoStockException classes handle the exception thrown by the inputs/methods.
 
 The code insides the main in the FruitShop and FruitShop2,  VegetableShop, and  VegetableShop2 is almost similar. It shows the difference that Inheritance doesn’t affect implementation.
+
+# BookShop
+This class explains inheritance, operator overloading and overridnig really well. It also imports error handling methods from the other package.
