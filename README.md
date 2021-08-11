@@ -1,5 +1,5 @@
 # Inheritance-in-java
-# The files attached here are to specify, how we can inherit the code from a file and avoid rewritting the same code again and again.
+# The files attached here are to specify, how we can inherit the code from a file and avoid rewritting the same code.
 Here the operations are implemented on Shop, Vegetable shop and Fruit shop.
 VegetableShop class has all the methods: setPrice, addVegetable, getPrice, listItem, checkList, buyItem.
 Similarly FruitShop class has all the methods: setPrice, addVegetable, getPrice, listItem, checkList, buyItem.
