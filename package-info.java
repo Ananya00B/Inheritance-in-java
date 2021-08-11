@@ -1,1 +1,1 @@
-package Inheritance.cls.work;
+package lab.work.inheritance;
